@@ -28,4 +28,5 @@ const embed = new Discord.RichEmbed()
   .addBlankField(true)
   .addField("Inline Field 3", "You can have a maximum of 25 fields.", true);
 
-  module.exports = embed
+
+module.exports = embed
